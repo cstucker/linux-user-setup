@@ -1,0 +1,3 @@
+#~/.bashrc custom lines for laziness
+export EDITOR="vim"
+PATH=$PATH:$HOME/bin
