@@ -1,3 +1,3 @@
 colorscheme slate
 highlight Normal guibg=black
-set columns=84
+set columns=85
