@@ -1,3 +1,4 @@
 #~/.bashrc custom lines for laziness
+function gvim () { (/usr/bin/gvim -f "$@" &) }
 export EDITOR="vim"
 PATH=$PATH:$HOME/bin
